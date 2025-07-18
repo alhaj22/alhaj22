@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Web Development** and **Cyber Security**
 - 🌱 I’m currently learning **Advanced Python,  Java, MongoDB, and Ethical Hacking**
 - 🤝 I’m looking to collaborate on **Open-source projects, Security Tools, and Full-stack Websites**
-- 📫 How to reach me: [alhaj22@gmail.com](mailto:alhajkhan9978@gmail.com)
+- 📫 How to reach me: [alhajkhan9978@gmail.com](mailto:alhajkhan9978@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving real-world problems using code and exploring the dark web ethically!
 
