@@ -23,7 +23,7 @@
 ```python
 class AlHajKhan:
     def __init__(self):
-        self.name        = "Al Haj Khan"
+        self.name        = "Alhaj Khan"
         self.alias       = "@alhaj22"
         self.pronouns    = "He / Him"
         self.location    = "🌍 Earth (Mostly Online)"
