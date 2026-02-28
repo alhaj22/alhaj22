@@ -25,7 +25,7 @@ class AlHajKhan:
         self.name        = "Alhaj Khan"
         self.alias       = "@alhaj22"
         self.pronouns    = "He / Him"
-        self.location    = "🌍 Earth (Mostly Online)"
+        self.location    = "Surat , India (Mostly Online)"
         self.email       = "alhajkhan9978@gmail.com"
         
         self.currently_learning = [
@@ -89,6 +89,9 @@ me.say_hello()
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
