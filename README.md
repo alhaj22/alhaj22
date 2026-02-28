@@ -11,7 +11,6 @@
 <br/>
 
 <!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=alhaj22&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/alhaj22?style=for-the-badge&color=6d28d9&labelColor=1e1b4b&label=FOLLOWERS)
 
 </div>
