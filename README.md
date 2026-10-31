@@ -1,79 +1,135 @@
-# Alhaj Khan
+<div align="center">
 
-**Full-Stack Engineer · Application Security**
-Surat, India · Remote-friendly
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:00b8ff,100:001eff&height=200&section=header&text=Alhaj%20Khan&fontSize=62&fontColor=0b0f19&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Security%20Researcher&descAlignY=60&descSize=20&descColor=0b0f19" alt="Alhaj Khan header" />
 
-I build web applications end to end, from database schema to deployment, with security treated as a design requirement rather than a final checklist. I'm most useful where reliability, clean architecture, and a security-aware mindset matter.
+<a href="https://github.com/alhaj22">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00B8FF&center=true&vCenter=true&width=700&height=45&lines=Building+secure+and+scalable+web+products;Breaking+things+ethically+to+make+them+stronger;CTF+player+%7C+Open-source+contributor" alt="Typing SVG" />
+</a>
 
-[Email](mailto:alhajkhan9978@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR-USERNAME) · [Portfolio](https://YOUR-PORTFOLIO.dev)
+<br/>
 
----
+![Followers](https://img.shields.io/github/followers/alhaj22?style=flat-square&color=00b8ff&labelColor=0b0f19&label=FOLLOWERS)
+![Location](https://img.shields.io/badge/BASED_IN-SURAT%2C_INDIA-00ff9f?style=flat-square&labelColor=0b0f19)
+![Availability](https://img.shields.io/badge/OPEN_TO-COLLABORATION-001eff?style=flat-square&labelColor=0b0f19)
 
-## Focus
-
-- **Backend & APIs:** REST design, authentication/authorization, input validation, rate limiting, data modeling
-- **Frontend:** React, component architecture, performance, accessibility
-- **Application security:** threat modeling, OWASP Top 10 mitigation, secure code review, penetration testing of web apps
-- **Delivery:** containerized services, CI/CD, reproducible environments
-
-## Technical Stack
-
-| Area | Technologies |
-|:-----|:-------------|
-| **Languages** | JavaScript (ES2023+), Python, Java, C, C++ |
-| **Frontend** | React, HTML5, CSS3 |
-| **Backend** | Node.js, Express |
-| **Data** | PostgreSQL, MySQL, MongoDB |
-| **Infrastructure** | Docker, Linux, Git, GitHub Actions |
-| **Security** | Burp Suite, Nmap, Metasploit, Wireshark, Ghidra, SQLMap |
-
-## Selected Work
-
-> Replace the entries below with your real projects. Senior profiles lead with 3 to 4 strong projects, each with the problem, the approach, and the result.
-
-### [Project Name](https://github.com/alhaj22/REPO)
-One-line summary of what it does and who it is for.
-- **Problem:** what was broken or missing
-- **Approach:** key architecture or design decisions (e.g. JWT with refresh rotation, queue-based processing)
-- **Stack:** Node.js · React · PostgreSQL · Docker
-- **Outcome:** measurable result (latency reduced, users served, vulnerabilities closed)
-
-### [Security Tool / Research Project](https://github.com/alhaj22/REPO)
-One-line summary.
-- **Problem:** …
-- **Approach:** …
-- **Stack:** Python · …
-- **Outcome:** …
-
-### [Open-Source Contribution](https://github.com/alhaj22/REPO)
-What you fixed or added, and the upstream project it landed in.
-
-## Engineering Principles
-
-1. **Secure by default.** Validate at every trust boundary, apply least privilege, never trust client input.
-2. **Simple over clever.** Readable code with clear ownership beats compact tricks.
-3. **Measure before optimizing.** Profile first, then change.
-4. **Automate the boring parts.** Tests, linting, and deployments should not depend on memory.
-5. **Document decisions.** Record the "why", not only the "what".
-
-## Security Practice
-
-Authorized testing and responsible disclosure only. CTF participation and lab work are used to sharpen defensive engineering: understanding how systems break in order to build ones that don't.
-
-## Currently
-
-- Deepening Python tooling and automation
-- Working toward CEH / OSCP
-- Building a full-stack SaaS product
-- Contributing to open-source security and web projects
-
-## GitHub Activity
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alhaj22&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhaj22&layout=compact&hide_border=true&theme=default" />
-</p>
+</div>
 
 ---
 
-*Open to full-time roles, contract work, and open-source collaboration.*
+## 👨‍💻 About
+
+I'm a full-stack developer with a security-first mindset. I build web applications end to end, and I study how they break, so that what I ship is hardened by design rather than patched after the fact.
+
+- 🔭 **Currently focused on:** Advanced Python, Java, MongoDB, and ethical hacking
+- 🧭 **Interests:** Web development, application security, threat research, open source
+- 🤝 **Open to:** Security tooling, full-stack products, open-source collaborations
+- ⚡ **Philosophy:** Real-world problems teach more than tutorial projects
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,c,cpp&theme=dark" alt="Languages and frameworks" />
+
+**Databases & Tooling**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,docker,linux,vscode&theme=dark" alt="Databases and tooling" />
+
+</div>
+
+---
+
+## 🛡️ Security Toolkit
+
+| Domain | Tools & Concepts |
+|:--|:--|
+| **Reconnaissance** | Nmap, Shodan, Maltego, OSINT |
+| **Web Application Security** | OWASP Top 10, XSS, SQLi, CSRF, Burp Suite |
+| **Exploitation Frameworks** | Metasploit, SQLMap |
+| **Cryptography** | AES, RSA, hashing, PKI |
+| **Analysis & Reverse Engineering** | Wireshark, Volatility, Ghidra |
+| **Environments** | Kali Linux, Parrot OS, Ubuntu |
+
+> All security work is performed in authorized labs, CTF platforms, and legal environments only.
+
+---
+
+## 📌 Featured Projects
+
+<!--
+Pin your best 4–6 repos on your profile, or list them here in this format:
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [project-name](https://github.com/alhaj22/project-name) | One-line impact statement | Node.js · MongoDB |
+-->
+
+Check my **pinned repositories** above for current work.
+
+---
+
+## 🎯 2026 Roadmap
+
+- [ ] Reach advanced proficiency in Python scripting and automation
+- [ ] Progress through the CEH / OSCP certification path
+- [ ] Ship a production-grade full-stack SaaS project
+- [ ] Contribute to 5+ open-source repositories
+- [ ] Go deep on MongoDB and distributed database design
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alhaj22&show_icons=true&theme=radical&hide_border=true&bg_color=0b0f19&title_color=00b8ff&icon_color=00ff9f&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhaj22&layout=compact&theme=radical&hide_border=true&bg_color=0b0f19&title_color=00b8ff&text_color=c9d1d9&border_radius=12" alt="Top languages" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=alhaj22&theme=radical&hide_border=true&background=0b0f19&ring=00b8ff&fire=00ff9f&currStreakLabel=00b8ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Streak stats" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=alhaj22&bg_color=0b0f19&color=00ff9f&line=00b8ff&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=alhaj22&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-alhajkhan9978%40gmail.com-00b8ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f19)](mailto:alhajkhan9978@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-alhaj22-00ff9f?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f19)](https://github.com/alhaj22)
+<!-- Add your real links below, then uncomment:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-001eff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f19)](https://linkedin.com/in/your-username)
+[![X](https://img.shields.io/badge/X-Follow-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0b0f19)](https://x.com/your-username)
+-->
+
+</div>
+
+---
+
+<div align="center">
+
+*"The quieter you become, the more you are able to hear."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001eff,50:00b8ff,100:00ff9f&height=100&section=footer" alt="Footer" />
+
+</div>
